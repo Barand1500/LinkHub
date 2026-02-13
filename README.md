@@ -282,13 +282,13 @@ http://localhost:5173
 <div align="center">
 
 ### 🏠 Ana Sayfa / Landing Page
-<img src="docs/screenshots/landing.png" alt="Landing" width="700"/>
+<img src="/ana.png" alt="Landing" width="700"/>
 
 ### 📊 Dashboard
-<img src="docs/screenshots/dashboard.png" alt="Dashboard" width="700"/>
+<img src="/alt.png" alt="Dashboard" width="700"/>
 
 ### 🔗 Paylaşım Sayfası / Share Page
-<img src="docs/screenshots/share.png" alt="Share Page" width="700"/>
+<img src="/login.png" alt="Share Page" width="700"/>
 
 </div>
 
